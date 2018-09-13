@@ -1,1 +1,1 @@
-# monadic-parser
+# Functional Parsers in Haskell
