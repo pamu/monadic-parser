@@ -1,0 +1,6 @@
+.stack-work/
+monadic-parser.cabal
+*~
+.vscode
+.DS_Store
+.idea
