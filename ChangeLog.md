@@ -1,3 +1,1 @@
-# Changelog for monadic-parser
-
-## Unreleased changes
+# Changelog for fp-parser
