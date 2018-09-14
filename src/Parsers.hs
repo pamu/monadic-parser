@@ -91,6 +91,7 @@ subExpr = do
 
 expr :: Parser Expr
 expr =
-  number <|> parensEnclosed divExpr <|> parensEnclosed mulExpr <|>
+  number <|> parensEnclosed number <|> parensEnclosed divExpr <|>
+  parensEnclosed mulExpr <|>
   parensEnclosed addExpr <|>
   parensEnclosed subExpr
