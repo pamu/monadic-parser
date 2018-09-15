@@ -3,4 +3,4 @@ fp-parser.cabal
 *~
 .vscode
 .DS_Store
-.idea
+result
